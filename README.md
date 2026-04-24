@@ -19,7 +19,7 @@ I turn messy data into clear, actionable dashboards. 2+ years of professional ex
 
 | Project | Tools | Highlights |
 |---|---|---|
-| [Sales&Performance-Dashboard](https://github.com/erryniec26/ErrynieCyril-Portfolio/tree/main/sales-dashboard) | Excel, Pivot Tables, Power Query | RM 16.2M revenue tracked · 1,500 transactions · Interactive slicers |
+| [Sales-Performance-Dashboard](https://github.com/erryniec26/ErrynieCyril-Portfolio/tree/main/sales-dashboard) | Excel, Pivot Tables, Power Query | RM 16.2M revenue tracked · 1,500 transactions · Interactive slicers |
 | [Insurance-Claims-Dashboard](https://github.com/erryniec26/ErrynieCyril-Portfolio/tree/main/insurance-claims-dashboard) | Excel, KPI Reporting | 200 claims · RM 552K tracked · Approval & processing analysis |
 | [Freelance-Transaction-Analysis+Automation](https://github.com/erryniec26/ErrynieCyril-Portfolio/tree/main/freelance-transaction-automation) | Excel, Python, SQLite | 1,500+ records · Automated cleaning pipeline |
 | [SQL-Data-Verification](https://github.com/erryniec26/ErrynieCyril-Portfolio/tree/main/sql-verification) | SQL | 500+ records verified · JOINs, aggregations, anomaly detection |
